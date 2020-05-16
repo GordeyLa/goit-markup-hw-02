@@ -1,3 +1,7 @@
+ul {
+  list-style: none;
+}
+
 .site-nav a {
   color: #212121;
 }
