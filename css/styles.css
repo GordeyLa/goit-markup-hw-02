@@ -47,6 +47,9 @@
   color: var(--accent-color);
 }
 
+.site-nav .link.current {
+  color: var(--accent-color);
+}
 .cont-nav a {
   color: var(--secondary-text-color);
 }
@@ -100,6 +103,13 @@
 }
 /*Button*/
 .button {
+  color: var(--white-color);
+  background-color: var(--accent-color);
+}
+
+/*Portfolio*/
+.portfolio-nav:hover,
+.portfolio-nav :focus {
   color: var(--white-color);
   background-color: var(--accent-color);
 }
