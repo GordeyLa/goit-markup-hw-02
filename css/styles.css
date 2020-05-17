@@ -98,3 +98,8 @@
 .footer-text {
   color: var(--opacity-white-40);
 }
+/*Button*/
+.button {
+  color: var(--white-color);
+  background-color: var(--accent-color);
+}
