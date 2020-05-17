@@ -18,7 +18,8 @@
   --secondary-background-color: #afb1b8;
   --footer-color: #2f303a;
   --black-color: #000000;
-  --opacity-white: rgb(255, 255, 255, 0.6);
+  --opacity-white-60: rgb(255, 255, 255, 0.6);
+  --opacity-white-40: rgb(255, 255, 255, 0.4);
 }
 
 .page {
@@ -86,4 +87,10 @@
 /*Footer*/
 .page-footer .logo {
   color: var(--white-color);
+}
+.addres {
+  color: var(--white-color);
+}
+.addres .addres-list {
+  color: var(--opacity-white-60);
 }
