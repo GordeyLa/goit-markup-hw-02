@@ -101,5 +101,5 @@
 /*Button*/
 .button {
   color: var(--white-color);
-  background-color: black;
+  background-color: var(--accent-color);
 }
