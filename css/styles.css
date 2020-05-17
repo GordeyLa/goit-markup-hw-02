@@ -91,6 +91,10 @@
 .addres {
   color: var(--white-color);
 }
-.addres .addres-list {
+.addres .addres-list a {
   color: var(--opacity-white-60);
+}
+
+.footer-text {
+  color: var(--opacity-white-40);
 }
