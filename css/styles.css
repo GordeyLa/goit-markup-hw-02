@@ -152,6 +152,7 @@
 }
 .addres {
   color: var(--white-color);
+  font-style: normal;
 }
 .addres .addres-list a {
   color: var(--opacity-white-60);
